@@ -1,5 +1,0 @@
-body { font-family: system-ui, Arial; background:#0b1220; color:#e8eefc; margin:0; padding:40px; }
-.card { max-width:720px; margin:0 auto; background:#111a2e; border:1px solid #213055; border-radius:14px; padding:24px; }
-button { margin-top:12px; padding:10px 14px; border-radius:10px; border:0; cursor:pointer; }
-.status { margin-top:14px; opacity:.9; }
-.out { margin-top:14px; background:#0b1220; padding:14px; border-radius:12px; overflow:auto; }
